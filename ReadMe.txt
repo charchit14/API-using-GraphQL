@@ -6,7 +6,7 @@ INTRODUCTION
 This code is an implementation of GraphQL server using the Ariadne library in Python.
 It defines a GraphQL schema and provides resolver functions for querying and mutating data related to Books
 
-...............................................................................................................................................
+...................................................................................................................................
 
 "db.py"
 
