@@ -6,14 +6,14 @@ INTRODUCTION
 This code is an implementation of GraphQL server using the Ariadne library in Python.
 It defines a GraphQL schema and provides resolver functions for querying and mutating data related to Books
 
-...................................................................................................................................
+...............................................................................................................................
 
 "db.py"
 
 The 'db.py' file contains all the data of this project
 or, simply, it is the database of this project.
 
-...............................................................................................................................................
+...............................................................................................................................
 
 "schema.py"
 
@@ -66,7 +66,7 @@ NOTE : To delete the book we only need id of the book, and we can easily delete
        So, we defined a separate function for that instead of passing all the arguments at once.
        Similarly, for edit/update we may need to update all the fields as well.
 
-...............................................................................................................................................
+...............................................................................................................................
 
 "main.py"
 
@@ -78,4 +78,4 @@ and returns responses to clients.
 It effectively serves as the bridge between clients and the database,
 allowing users to communicate with and manipulate data using GraphQL queries and mutations.
 
-...............................................................................................................................................
+...............................................................................................................................
