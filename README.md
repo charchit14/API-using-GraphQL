@@ -1,12 +1,12 @@
 # (To view the code, navigate to 'master' branch)
 <br>
 
-# About this project
+# About this repository
 This is a basic API made using GraphQL where you can perform CRUD operations.
 This project is created in a virtual environment using 'poetry' so, you can see all the installed dependencies on '.toml' file.
 
 
-## How to run this repository
+## How to run this program
 
 Step 1:
 Install the required packages which are listed in '.toml' file.
